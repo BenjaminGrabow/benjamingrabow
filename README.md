@@ -1,7 +1,7 @@
 Hi 👋
 ===============================
 
-Full-time Searcher
+Full-Time Searcher
 -----------------
 
 Love to learn. 
