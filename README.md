@@ -1,7 +1,7 @@
 Hi 👋
 ===============================
 
-Student Developer
+Full-time Searcher
 -----------------
 
 Love to learn. 
