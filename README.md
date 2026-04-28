@@ -5,7 +5,7 @@ Hey 👋 I'm Ben - AI Automation Engineer & Full-Stack Architect
 🧠 LangChain · LangGraph · OpenAI · Claude · Make · Zapier · Python · Node.js  
 📡 Background in real-time data systems, blockchain infrastructure, and analytics  
 💼 Former Web3 VC Lead Investment Analyst — I understand business, not just code  
-🚀 6+ years building production systems across AI, automation, Web3, and data infrastructure  
+🚀 8+ years building production systems across AI, automation, Web3, and data infrastructure  
 🎯 Looking for complex automation problems where systems thinking matters
 
 <b>My GitHub Stats</b>
