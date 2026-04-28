@@ -1,4 +1,4 @@
-Hey 👋 I'm Ben — AI Automation Engineer & Full-Stack Systems Architect
+Hey 👋 I'm Ben - AI Automation Engineer & Full-Stack Systems Architect
 
 I build AI systems that automate real business processes — not just chatbots, wrappers, or fragile demos.
 
