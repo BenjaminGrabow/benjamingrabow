@@ -1,33 +1,12 @@
-Hey 👋 I'm Ben - AI Automation Engineer & Full-Stack Systems Architect
+Hey 👋 I'm Ben - AI Automation Engineer & Full-Stack Architect
 
-I build AI systems that automate real business processes — not just chatbots, wrappers, or fragile demos.
-
-🤖 AI agents and workflow automation
-⚙️ CRM, email, Slack, Airtable, API, and internal tool integrations
-📡 Real-time data pipelines, indexing systems, and event-driven backends
-🧠 LLMs connected to structured data, business logic, and decision workflows
-
-🚀 Current focus:
-• AI lead qualification and routing systems
-• Agentic research and reporting workflows
-• RAG systems with structured outputs
-• Automated operations briefings and internal dashboards
-• End-to-end AI automation for companies with messy manual processes
-
-🧩 Background:
-• Built a custom NFT platform that facilitated $10M+ in primary sales
-• Architected Ethereum indexers and real-time on-chain analytics systems
-• Built AI-assisted token analysis and trading signal infrastructure
-• Ran distributed node infrastructure and WebSocket data pipelines
-• Worked as Lead Investment Analyst at a Web3 VC, evaluating early-stage crypto companies
-
-🧱 Stack:
-LangChain · LangGraph · OpenAI · Claude · Make · Zapier
-Node.js · Python · PostgreSQL · MongoDB · Vector DBs
-Next.js · React · TypeScript · Ethereum · WebSockets
-
-⚡ Looking for:
-Complex automation problems where companies need an architect, not just a prompt engineer.
+🤖 Building AI agents and workflow automations for companies  
+⚙️ Automating CRM, email, Slack, research, reporting, and internal operations  
+🧠 LangChain · LangGraph · OpenAI · Claude · Make · Zapier · Python · Node.js  
+📡 Background in real-time data systems, blockchain infrastructure, and analytics  
+💼 Former Web3 VC Lead Investment Analyst — I understand business, not just code  
+🚀 6+ years building production systems across AI, automation, Web3, and data infrastructure  
+🎯 Looking for complex automation problems where systems thinking matters
 
 <b>My GitHub Stats</b>
 
